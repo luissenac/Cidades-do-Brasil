@@ -1,6 +1,7 @@
 <?php
 
 echo "Primeira linha: em casa - PHP";
+echo "Segunda linha PC 1: Senac";
 
 ?>
 
@@ -13,5 +14,6 @@ echo "Primeira linha: em casa - PHP";
     <body>
         <h1>Exemplo de site no GitHub</h1>
         <p>Primeira linha: em casa</p>
+        <p>Segunda linha PC 1: Senac</p>
     </body>
 </html>
