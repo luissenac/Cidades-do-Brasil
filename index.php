@@ -2,7 +2,7 @@
 
 echo "Primeira linha: em casa - PHP";
 echo "Segunda linha PC 1: Senac";
-
+echo "Terceira linha GITHUB: Senac";
 
 
 $url = file_get_contents('http://www.bcb.gov.br/');
@@ -21,5 +21,6 @@ $exibir = $conteudo[0][0];
         <h1>Exemplo de site no GitHub</h1>
         <p>Primeira linha: em casa</p>
         <p>Segunda linha PC 1: Senac</p>
+        <p>Terceira linha GITHUB: Senac</p>
     </body>
 </html>
