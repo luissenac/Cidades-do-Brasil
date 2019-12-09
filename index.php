@@ -3,6 +3,12 @@
 echo "Primeira linha: em casa - PHP";
 echo "Segunda linha PC 1: Senac";
 
+
+
+$url = file_get_contents('http://www.bcb.gov.br/');
+preg_match_all('/ORES-->(.+)<!--/s', $url, $conteudo);
+$exibir = $conteudo[0][0];
+
 ?>
 
 <!DOCTYPE html>
