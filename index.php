@@ -25,5 +25,6 @@ $exibir = $conteudo[0][0];
         <p>Quarta linha no PC 1</p>
         <p>Quinta linha no Github</p>
         <p>Sexta linha no PC 2</p>
+        <p>Sétima linha no PC 1</p>
     </body>
 </html>
