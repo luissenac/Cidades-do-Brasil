@@ -19,10 +19,7 @@ $exibir = $conteudo[0][0];
     </head>
     <body>
         <h1>Exemplo de site no GitHub</h1>
-        <p>Primeira linha: em casa</p>
-        <p>Segunda linha PC 1: Senac</p>
-        <p>Terceira linha GITHUB: Senac</p>
-        <p>Quarta linha Senac</p>
-        <p>Quinta linha GITHUB: Senac</p>
+        <p>Primeira linha no PC 1</p>
+
     </body>
 </html>
